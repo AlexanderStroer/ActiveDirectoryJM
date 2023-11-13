@@ -19,7 +19,7 @@ This documentation showcases the actions taken to successfully set up Windows Ac
 - <b>Windows 10</b>
 - <b>Windows Server 2019</b>
 
-<h2>Project walk-through:</h2>
+<h2>Project overview:</h2>
 
 <p align="center">
 Created Virtual Machine<br/>
@@ -32,11 +32,11 @@ Customized Network Adapters<br/>
 <br />
 Installed Windows Server 2019<br/>
 <br />
-<img width="846" alt="Input deposit amount" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/aa8e73c0-40c3-46d8-9bbe-8c7f75ddbe27">
+<img width="846" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/d02999cb-2ba7-4ce9-a5cc-4bd6576e8319">
 <br />
 Conigured Network Settings<br/>
 <br />
-<img width="846" alt="Input deposit amount" src="https://github.com/AlexanderStroer/SlotMachine/assets/122342684/aa8e73c0-40c3-46d8-9bbe-8c7f75ddbe27">
+<img width="846" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/e199c528-73e7-4f8a-bba3-be44d6fc390c">
 <br />
 Insta<br/>
 <br />

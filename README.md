@@ -23,27 +23,21 @@ This documentation showcases the actions taken to successfully set up Windows Ac
 
 <p align="center">
 Created Virtual Machine<br/>
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/2d0e012d-55a5-4c08-bc4b-9ddc9f2165d3">
-<br />
+<br /><br />
 Customized Network Adapters<br/>
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/a240964c-c593-4b65-8abf-c3cd571c24b1">
-<br />
+<br /><br />
 Installed Windows Server 2019<br/>
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/d02999cb-2ba7-4ce9-a5cc-4bd6576e8319">
-<br />
+<br /><br />
 Conigured Network Settings<br/>
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/e199c528-73e7-4f8a-bba3-be44d6fc390c">
-<br />
+<br /><br />
 Installed Active Directory<br/>
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/40711a4a-f1ff-4b72-ac64-c17b31901f85">
-<br />
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/bed0497f-833b-4a5c-96e2-509fa493db0e">
-<br />
+<br /><br />
 
   
 </p>

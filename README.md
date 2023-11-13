@@ -12,7 +12,8 @@ This documentation showcases the actions taken to successfully set up Windows Ac
 <h2>Languages and Utilities Used</h2>
 
 - <b>Active Directory Domain Services</b>
-- <b>Oracle VirtualBox</b> 
+- <b>Oracle VirtualBox</b>
+- <b>Powershell</b>
 
 <h2>Environments Used </h2>
 

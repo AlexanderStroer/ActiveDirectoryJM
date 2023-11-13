@@ -42,6 +42,10 @@ Installed Active Directory<br/>
 Promoted server to a domain controller<br/>
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/c1a3b2b0-6692-4705-b231-ef4bf227b08e">
 <br /><br />
+Created an Administrator Account to use instead of the default Admin account given by AD<br/>
+<img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/af7ab6f9-4749-46cf-a37f-2643e189160b">
+<br /><br />
+
 
 
   
@@ -56,9 +60,3 @@ Promoted server to a domain controller<br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-
-
-    After installing the Active Directory role, you will be prompted to promote the server to a domain controller.
-    Follow the prompts to configure your domain, specifying the domain name, NetBIOS name, and the DSRM password.
-
-Congratulations! You've successfully set up Windows Active Directory on your Windows Server 2019 virtual machine. You can now use Active Directory for user and group management, as well as other directory services. Please note that this documentation covers the basic setup, and additional configuration may be required depending on your specific needs.

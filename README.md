@@ -39,6 +39,10 @@ Installed Active Directory<br/>
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/40711a4a-f1ff-4b72-ac64-c17b31901f85">
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/bed0497f-833b-4a5c-96e2-509fa493db0e">
 <br /><br />
+Promoted server to a domain controller<br/>
+<img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/c1a3b2b0-6692-4705-b231-ef4bf227b08e">
+<br /><br />
+
 
   
 </p>

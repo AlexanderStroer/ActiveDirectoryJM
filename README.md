@@ -60,12 +60,8 @@ Configure DHCP on our domain controller to allow those Windows clients to get an
 <br /><br />
 Use Powershell script to automatically generate a list of users to act as employees<br/>
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/3944eb54-1dd0-4244-90a0-5ad3f2e4ba78">
+<img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/5a619981-373f-4f2e-a490-c50387030469">
  <br /><br />
-
- 
-
-<br /><br />
-
 
 
 

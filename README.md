@@ -46,7 +46,9 @@ Created an Administrator Account to use instead of the default Admin account giv
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/af7ab6f9-4749-46cf-a37f-2643e189160b">
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/cbb5b8dd-7315-4543-acec-4dd046e4f649">
 <br /><br />
-
+Installed RAS/NAT to allow the Windows 10 client to access the internet through the domain controller<br/>
+<img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/cd49dee9-754b-47e5-b81e-406fe36cbd77">
+<br /><br />
 
   
 </p>

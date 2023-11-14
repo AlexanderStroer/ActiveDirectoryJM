@@ -21,7 +21,7 @@ This documentation showcases the actions taken to successfully set up Windows Ac
 - <b>Windows Server 2019</b>
 
 <h2>Project overview:</h2>
-
+<b>
 <p align="center">
 Created Virtual Machine<br/>
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/2d0e012d-55a5-4c08-bc4b-9ddc9f2165d3">
@@ -49,7 +49,7 @@ Created an Administrator Account to use instead of the default Admin account giv
 Installed RAS/NAT to allow the Windows 10 client to access the internet through the domain controller<br/>
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/cd49dee9-754b-47e5-b81e-406fe36cbd77">
 <img width="800" alt="Input deposit amount" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/c4093021-a999-4a9b-9fb6-4988e441654e">
-<br /><br />
+<br /><br /></b>
 
   
 </p>

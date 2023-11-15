@@ -52,9 +52,6 @@ Installed RAS/NAT to allow the Windows 10 client to access the internet through 
 <br /><br />
 Configure DHCP on our domain controller to allow those Windows clients to get an IP address and to access the internet<br/>
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/236f3af6-c27a-4ad7-9caa-aae9a584a867">
-<br /><br />
-Configure DHCP on our domain controller to allow those Windows clients to get an IP address and to access the internet<br/>
-<img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/236f3af6-c27a-4ad7-9caa-aae9a584a867">
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/bf543952-8769-4239-b43b-d0c2a237339d">
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/4ff4b759-5c43-43d9-94b6-81c596aa5f5a">
 <br /><br />

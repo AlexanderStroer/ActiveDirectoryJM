@@ -59,8 +59,9 @@ Use Powershell script to automatically generate a list of users to act as employ
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/3944eb54-1dd0-4244-90a0-5ad3f2e4ba78">
 <img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/5a619981-373f-4f2e-a490-c50387030469">
  <br /><br />
-
-
+Confirm that the Domain Controller is acting as a DHCP/DNS server by creating a Windows 10 Client on the internal network<br/>
+<img width="800" alt="" src="https://github.com/AlexanderStroer/ActiveDirectoryJM/assets/122342684/edb74cff-9857-412d-b7ea-55953dd866d9">
+<br /><br />
 
 </b>
 </p>

@@ -3,9 +3,28 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
 <h2>Description</h2>
-This documentation showcases the actions taken to successfully set up Windows Active Directory on a Windows Server 2019 virtual machine hosted on a Windows 10 system via VirtualBox. The project's objective was achieved through virtual machine configuration, network customization, Windows Server installation, network settings configuration, and Active Directory role installation.
+In this project, I deployed Active Directory on Windows Server 2019 using Oracle VirtualBox. Key achievements included creating customized Virtual Machines on Windows 10 and Server 2019, and configuring network settings efficiently. The Active Directory setup involved promoting Server 2019 to a domain controller and creating an administrator account. Infrastructure management included RAS/NAT implementation for internet access and DHCP configuration for automatic IP assignment. And testing was done by creating a Windows 10 Client to grab an IP automatically from the DHCP server.
+<br />
+<br />
 
+🎯 **Objective:**
+  - Deployed Active Directory on Windows Server 2019 using Oracle VirtualBox.
 
+🏆 **Key Achievements:**
+  - Created customized Virtual Machines on Windows 10 and Server 2019.
+  - Configured network settings and adapters efficiently.
+
+🛠️ **Active Directory Setup:**
+  - Installed and promoted Server 2019 to a domain controller.
+  - Enhanced security with a custom Administrator Account.
+
+🌐 **Infrastructure Management:**
+  - Implemented RAS/NAT for internet access via the domain controller.
+  - Configured DHCP for automatic IP assignment.
+
+🤖 **Automation and User Management:**
+  - Employed Powershell for user account automation.
+  - Validated DHCP/DNS functionality with a Windows 10 client.
 <br />
 
 

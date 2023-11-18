@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
 <h2>Description</h2>
-In this project, I deployed Active Directory on Windows Server 2019 using Oracle VirtualBox. Key achievements included creating customized Virtual Machines on Windows 10 and Server 2019, and configuring network settings efficiently. The Active Directory setup involved promoting Server 2019 to a domain controller and creating an administrator account. Infrastructure management included RAS/NAT implementation for internet access and DHCP configuration for automatic IP assignment. And testing was done by creating a Windows 10 Client to grab an IP automatically from the DHCP server.
+In this project, I deployed Active Directory on Windows Server 2019 using Oracle VirtualBox. Key achievements included creating customized Virtual Machines on Windows 10 and Server 2019, and configuring network settings efficiently. The Active Directory setup involved promoting Server 2019 to a domain controller and creating an administrator account. Infrastructure management included RAS/NAT implementation for internet access and DHCP configuration for automatic IP assignment. And testing was done by creating a Windows 10 Client to verify network connectivity.
 <br />
 <br />
 
